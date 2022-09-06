@@ -1,1 +1,3 @@
+The GO enrichment figures are generated using ShinyGO server with following steps:
+Total immune genes as background and immune genes with repeats as foreground. Both lists are mentioned in Table1.xlsx
 
